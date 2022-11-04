@@ -1,7 +1,7 @@
 """ LenvxShell Remake"""
 
 #Important
-import colorama, ujson, random, platform, os, time, getpass
+import colorama, ujson, random, platform, os, time, getpass, readline
 from colorama import Fore
 from datetime import date
 today = date.today()
