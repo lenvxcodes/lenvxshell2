@@ -4,6 +4,7 @@ A remake from lenvxshell.
 #For windows users with bash.
 
 ``Open main.py with a editor.``
+
 ``and remove readline from the import.``
 
 #Is this a real shell?
