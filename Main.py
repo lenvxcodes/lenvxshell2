@@ -72,6 +72,7 @@ def shell():
                      {Fore.BLUE} qu! {Fore.RESET} >> {Fore.GREEN} quits the shell.
                      {Fore.BLUE} kz {Fore.RESET} >> {Fore.GREEN} Change your prefix/PS1
                      {Fore.BLUE} feth {Fore.RESET} >> {Fore.GREEN} neofetch but lenvxshell's only
+                     {Fore.BLUE} randomize {Fore.RESET} >> {Fore.GREEN} Hides your text with random letters
                     {Fore.RESET}
                      """)
         elif sytax == "cl":
