@@ -7,7 +7,7 @@ from datetime import date
 from os import getpid
 mem_usage = psutil.virtual_memory()
 my_process = psutil.Process(getpid())
-ver = 0.2
+ver = 0.3
 today = date.today()
 d1 = today.strftime("%d/%m/%Y")
 print("Welcome to DEV release...")
