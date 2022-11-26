@@ -14,4 +14,4 @@ This is a repl and called lenvxshell2 beacause i had no knowledge abt it.
 
 ### Current version
 
-``` 0.1 ```
+``` 0.3 ```
